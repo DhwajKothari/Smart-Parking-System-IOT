@@ -3,10 +3,10 @@
 #include <Wire.h>
 #include <FirebaseArduino.h>
 
-#define FIREBASE_HOST "iotex-fad35.firebaseio.com"                 
-#define FIREBASE_AUTH "jCNlnhNqBBQ93rdPwbILfiuf01FOziAdYrDdXwGr"            
-#define WIFI_SSID "ayush_vivo"                                            
-#define WIFI_PASSWORD "naman123"                                   
+#define FIREBASE_HOST ""                 
+#define FIREBASE_AUTH ""            
+#define WIFI_SSID ""                                            
+#define WIFI_PASSWORD ""                                   
       
 Servo myservo;                          
 Servo myservos;                               
