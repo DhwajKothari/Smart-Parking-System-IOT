@@ -5,8 +5,8 @@
 #define FIREBASE_HOST ""                 
 #define FIREBASE_AUTH ""    
 
-#define WIFI_SSID "ayush_vivo"                                             
-#define WIFI_PASSWORD "17113650"                                    
+#define WIFI_SSID ""                                             
+#define WIFI_PASSWORD ""                                    
 
 int countYes = 0;
 int carEnter = D0;                    
